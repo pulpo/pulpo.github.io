@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Bienvenido"
+date:   2015-09-20 17:25:48
+author: pulpo
+categories: docker instructivo
+---
+
+# Docker
+
+## Conectando a un docker remoto (http)
+
+Bajamos el servicio de docker que esté en ejecución en el **servidor**
+        
+        sudo service docker.io stop
+
+Iniciamos el servicio en el **servidor** , exponiendo el sock
+
+        docker -H tcp://0.0.0.0.0:5000 -H unix:///var/run/docker.sock -d &
+
+Ahora desde el **cliente**, ejecutamos, y suponiendo que el servidor tenga la IP 192.168.0.30
+
+        sudo docker -H 192.168.0.30:5000 ps
+
+

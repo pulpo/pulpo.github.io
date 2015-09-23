@@ -1,0 +1,14 @@
+# Site settings
+title: OpenBITS
+email: jcaivano@openbits.com.ar
+description: > # this means to ignore newlines until "baseurl:"
+  OpenBITS intenta relatar mi camino entre convertirme en un syadmin especializado
+  en Sistemas Operativos Unix, a transformarme en un DevOps.
+  No sé bien qué tipo de contenido encontrarán, relatos de índole personal, instructivos, etc. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://openbits.com.ar" # the base hostname & protocol for your site
+twitter_username: pulpox
+github_username:  pulpo
+
+# Build settings
+markdown: kramdown
