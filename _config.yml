@@ -1,14 +1,42 @@
 # Site settings
-title: OpenBITS
-email: jcaivano@openbits.com.ar
-description: > # this means to ignore newlines until "baseurl:"
-  OpenBITS intenta relatar mi camino entre convertirme en un syadmin especializado
-  en Sistemas Operativos Unix, a transformarme en un DevOps.
-  No sé bien qué tipo de contenido encontrarán, relatos de índole personal, instructivos, etc. 
+description: Un blog mas, un sysadmin tratando de convertirse en devops
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://openbits.com.ar" # the base hostname & protocol for your site
+url: "http://localhost:4000" # the base hostname & protocol for your site , estaba en 3000
+
+# User settings
+username: Juan Caivano
+user_description: Sysadmin en el camino a Devops
+user_title: Unix System Administrator
+email: jcaivano@openbits.com.ar
 twitter_username: pulpox
 github_username:  pulpo
+#gplus_username:  lorem_ipsum
+#disqus_username: lorem_ipsum
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: Series
+    url: /series
+  - title: Tags
+    url: /tags
+  - title: About Me
+    url: /about
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
