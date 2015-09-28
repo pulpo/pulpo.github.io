@@ -1,5 +1,5 @@
 # Site settings
-description: Un blog mas, un sysadmin tratando de convertirse en devops
+description: Jus another blog, a classic sysadmin mutating on a devop
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://pulpo.github.io" # the base hostname & protocol for your site , estaba en 3000
 
