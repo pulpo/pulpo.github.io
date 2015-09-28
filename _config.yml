@@ -1,12 +1,12 @@
 # Site settings
 description: Un blog mas, un sysadmin tratando de convertirse en devops
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://pulpo.github.io" # the base hostname & protocol for your site , estaba en 3000
+url: "http://localhost:4000" # the base hostname & protocol for your site , estaba en 3000
 
 # User settings
-username: Juan Caivano
+username: Open Bits
 user_description: Sysadmin en el camino a Devops
-user_title: Unix System Administrator
+user_title: Linux/Unix System Administration
 email: jcaivano@openbits.com.ar
 twitter_username: pulpox
 github_username:  pulpo
