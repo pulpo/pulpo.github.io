@@ -32,9 +32,8 @@ Para ello necesitamos:
 - Tener instalado adb en nuestro sistema operativo, en Ubuntu y derivados sería un simple ```sudo apt-get install android-tools-adb```
 - Tener habilitado el modo depuración USB de Android (desde las opciones para desarrolladores). 
 
-Luego conectamos mediante USB el dispositivo con Android, y reiniciamos el servicio de adb:
+Luego conectamos mediante USB el dispositivo con Android, e iniciamos el servicio de adb:
 
-    adb kill-server
     ╭─pulpo@wendy-reloaded  ~  
     ╰─$ sudo adb start-server
     * daemon not running. starting it now on port 5037 *
