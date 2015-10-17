@@ -11,7 +11,7 @@ email: jcaivano@openbits.com.ar
 twitter_username: pulpox
 github_username:  pulpo
 #gplus_username:  lorem_ipsum
-#disqus_username: lorem_ipsum
+disqus_username: pulpox
 
 # Build settings
 markdown: kramdown

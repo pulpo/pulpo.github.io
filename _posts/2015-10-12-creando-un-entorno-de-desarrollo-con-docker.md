@@ -6,6 +6,7 @@ image: '/assets/img/dockerlogo.png'
 description:
 tags: minitutorial, spanish, docker, volume
 categories: tutorial
+comments: true
 twitter_text:
 ---
 La utilización de contenedores dentro de un sistema operativo es una práctica muy utilizada en el mundo de IT, debido a que por un costo marginal casi nulo nos permite de disponer de un entorno controlado en el que los procesos pueden operar sin la necesidad de contar con todo un entorno real, pero creyendo que están en uno. 
