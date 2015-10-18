@@ -4,7 +4,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://pulpo.github.io" # the base hostname & protocol for your site , estaba en 3000
 
 # User settings
-username: Open Bits
+username: Juan Caivano
 user_description: A Sysadmin on the path to Devop
 user_title: Linux/Unix System Administration
 email: jcaivano@openbits.com.ar
