@@ -107,7 +107,7 @@ Y desde el navegador, ya podemos probar acceder al sitio creado:
 Podremos por lo tanto crear los post que queramos en **~/srv/prueba/_posts**
 
     $ cd ~/srv/prueba  
-    $ vim vim 2015-10-17-prueba.markdown
+    $ vim 2015-10-17-prueba.markdown
 
 Y en el archivo creamos un post de prueba:
 
