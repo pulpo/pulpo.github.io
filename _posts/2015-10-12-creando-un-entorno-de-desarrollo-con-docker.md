@@ -20,7 +20,7 @@ Como esto es solamente un artículo de un blog, de querer profundizar su estudio
 
 ## Navegar el hub 
 
-La comunidad conformas en torno a docker ha dispuesto de una cantidad de entornos pre configurados de los cuales se puede hacer uso.  Los mismos se pueden encontrar en el hub.
+La comunidad conformada en torno a docker ha dispuesto de una cantidad de entornos pre configurados de los cuales se puede hacer uso.  Los mismos se pueden encontrar en el hub.
 
 Para el caso que nos interesa, queremos disponer de un entorno jekyll similar al que ofrece github pages, a fin de poder disponer de un entorno de desarrollo análogo al que tendremos en nuestro blog de producción. Podemos realizar la búsqueda en el hub con el comando **docker search**, o bien navegando desde el navegador la página del [hub](https://hub.docker.com/)
 
