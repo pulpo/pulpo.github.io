@@ -78,7 +78,7 @@ Desglosando el mismo un poco, tenemos:
 - **p**: especifica el socket a utilizar, en este caso machearía el puerto 4000 de loopback con el 4000 del contenedor
 
 
-De esta forma por ejemplo podemos tener un entorno en el que podemos realizar modificaciones y verlas en el momento en nuestra máquina, y cuando ya tenemos las modificaciones controladas realizar el paso a producción correspondiente. 
+De esta forma por ejemplo podemos tener un entorno en el que podemos realizar modificaciones y verlas en el memento en nuestra máquina, y cuando ya tenemos las modificaciones controladas realizar el paso a producción correspondiente. 
 
 Gracias a poder contar con un entorno interactivo, podemos invocar una shell (sh), y crear un nuevo sitio con los comandos de jekyll, por lo tanto, del prompt que devuelve el comando anteriormente ejecutado, podemos utilizar 'jekyll new .' para crear un blog en la locación donde nos deja (que será la ~/srv/prueba de nuestra máquina real, y que se traducirá como el /srv/jekyll en el entorno del contenedor). 
 
