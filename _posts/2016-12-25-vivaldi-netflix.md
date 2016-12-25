@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ver Netflix en Vivaldi (Elementary OS)"
-date: 2016-25-12 14:30:00/
+date: 2016-12-25 14:30:00/
 description:
 tags: minitutorial, spanish, netflix, vivaldi 
 categories: tutorial
