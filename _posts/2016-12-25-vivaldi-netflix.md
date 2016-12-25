@@ -24,6 +24,6 @@ Luego, bajamos y ejecutamos el script (hay que revisar el código antes, por lo 
 
 Y podremos disfrutar de Netflix en Vivaldi.
 
-![](assets/netflix_vivaldi.png)
+![](/assets/img/netflix_vivaldi.png)
 
 
